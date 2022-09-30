@@ -1,4 +1,4 @@
-# Write a merge sort algorithm
+# Merge sort algorithm
 
 def merge_sort(list):
     if len(list) <= 1:
