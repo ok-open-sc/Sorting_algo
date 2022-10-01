@@ -4,6 +4,7 @@ def draw_square(some_turtle):
     for i in range(1,5):
         some_turtle.forward(100)
         some_turtle.right(90)
+        some_turtle.speed(10)   #increased speed of turtle
 
 def draw_art():
     window = turtle.Screen()
@@ -21,5 +22,6 @@ def draw_art():
     #angie.shape("arrow")
     #angie.color("blue")
     #angie.circle(100)
-
+    window.exitonclick()       # When clicked program window will close
+    
 draw_art()
