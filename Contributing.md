@@ -1,5 +1,8 @@
-## Name: codingis4noobs2
-## Github Link: https://github.com/codingis4noobs2
+# Contributors
 
-## Name: shree675
-## Github Link: https://github.com/shree675
+| Name                     | Github Repository                                |
+|:-------------------------|:-------------------------------------------------|
+| **codingis4noobs2**      | <https://github.com/codingis4noobs2>             |
+| **shree675**             | <https://github.com/shree675>                    |
+
+
